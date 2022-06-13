@@ -1,4 +1,4 @@
-# Desafio 02 da Trilha ReactJS - Jornada Ignite disponibilizado pela Rocketseat
+# Desafio 02 Chapter II da Trilha ReactJS - Jornada Ignite disponibilizado pela Rocketseat
 
 ## 💻 Desafio: Refactoring de classes e TypeScript
 Esse desafio consiste em uma aplicação já funcional onde o objetivo principal 
